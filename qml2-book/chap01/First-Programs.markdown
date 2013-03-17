@@ -59,6 +59,6 @@ We set the value of the property **width** to 200, and the value of the property
 
 The **Text** element is a non-editabl text field. To set the string content of the Text field, we bind a value ot the text property. And we also set the color property to darkblue.
 
-We shall save the code as hello.qml, and run qmlscene with the file as the argument will displat the window with a text label Hello World.
+We shall save the code as hello.qml, and run qmlscene with the file as the argument will display the window with a text label Hello World.
 
 ![Hello World](../images/helloworld.png)
